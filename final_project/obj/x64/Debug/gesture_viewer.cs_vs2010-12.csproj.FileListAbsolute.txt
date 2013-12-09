@@ -1,0 +1,50 @@
+C:\Program Files (x86)\Intel\PCSDK\framework\CSharp\gesture_viewer.cs\bin\x64\Debug\gesture_viewer.cs.exe
+C:\Program Files (x86)\Intel\PCSDK\framework\CSharp\gesture_viewer.cs\bin\x64\Debug\gesture_viewer.cs.pdb
+C:\Program Files (x86)\Intel\PCSDK\framework\CSharp\gesture_viewer.cs\bin\x64\Debug\libpxcclr.dll
+C:\Program Files (x86)\Intel\PCSDK\framework\CSharp\gesture_viewer.cs\obj\x64\Debug\gesture_viewer.cs_vs2010-12.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\Intel\PCSDK\framework\CSharp\gesture_viewer.cs\obj\x64\Debug\gesture_viewer.cs.MainForm.resources
+C:\Program Files (x86)\Intel\PCSDK\framework\CSharp\gesture_viewer.cs\obj\x64\Debug\gesture_viewer.cs.Properties.Resources.resources
+C:\Program Files (x86)\Intel\PCSDK\framework\CSharp\gesture_viewer.cs\obj\x64\Debug\gesture_viewer.cs_vs2010-12.csproj.GenerateResource.Cache
+C:\Program Files (x86)\Intel\PCSDK\framework\CSharp\gesture_viewer.cs\obj\x64\Debug\gesture_viewer.cs.exe
+C:\Program Files (x86)\Intel\PCSDK\framework\CSharp\gesture_viewer.cs\obj\x64\Debug\gesture_viewer.cs.pdb
+C:\Program Files (x86)\Intel\PCSDK\framework\CSharp\final_project_code\obj\x64\Debug\gesture_viewer.cs.exe
+C:\Program Files (x86)\Intel\PCSDK\framework\CSharp\final_project_code\obj\x64\Debug\gesture_viewer.cs.pdb
+C:\Program Files (x86)\Intel\PCSDK\framework\CSharp\final_project_code\obj\x64\Debug\gesture_viewer.cs_vs2010-12.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\Intel\PCSDK\framework\CSharp\final_project_code\obj\x64\Debug\gesture_viewer.cs.MainForm.resources
+C:\Program Files (x86)\Intel\PCSDK\framework\CSharp\final_project_code\obj\x64\Debug\gesture_viewer.cs.Properties.Resources.resources
+C:\Program Files (x86)\Intel\PCSDK\framework\CSharp\final_project_code\obj\x64\Debug\gesture_viewer.cs_vs2010-12.csproj.GenerateResource.Cache
+C:\Program Files (x86)\Intel\PCSDK\framework\CSharp\final_project_code\bin\x64\Debug\gesture_viewer.cs.exe
+C:\Program Files (x86)\Intel\PCSDK\framework\CSharp\final_project_code\bin\x64\Debug\gesture_viewer.cs.pdb
+C:\Program Files (x86)\Intel\PCSDK\framework\CSharp\final_project_code\bin\x64\Debug\Emgu.CV.dll
+C:\Program Files (x86)\Intel\PCSDK\framework\CSharp\final_project_code\bin\x64\Debug\Emgu.CV.GPU.dll
+C:\Program Files (x86)\Intel\PCSDK\framework\CSharp\final_project_code\bin\x64\Debug\Emgu.CV.UI.dll
+C:\Program Files (x86)\Intel\PCSDK\framework\CSharp\final_project_code\bin\x64\Debug\Emgu.Util.dll
+C:\Program Files (x86)\Intel\PCSDK\framework\CSharp\final_project_code\bin\x64\Debug\ZedGraph.dll
+C:\Program Files (x86)\Intel\PCSDK\framework\CSharp\final_project_code\bin\x64\Debug\Emgu.CV.xml
+C:\Program Files (x86)\Intel\PCSDK\framework\CSharp\final_project_code\bin\x64\Debug\Emgu.CV.GPU.xml
+C:\Program Files (x86)\Intel\PCSDK\framework\CSharp\final_project_code\bin\x64\Debug\Emgu.CV.UI.xml
+C:\Program Files (x86)\Intel\PCSDK\framework\CSharp\final_project_code\bin\x64\Debug\Emgu.Util.xml
+C:\Emgu\emgucv-windows-universal-cuda 2.9.0.1922\Emgu.CV.Example\final_project_code\obj\x64\Debug\gesture_viewer.cs.exe
+C:\Emgu\emgucv-windows-universal-cuda 2.9.0.1922\Emgu.CV.Example\final_project_code\obj\x64\Debug\gesture_viewer.cs.pdb
+C:\Emgu\emgucv-windows-universal-cuda 2.9.0.1922\Emgu.CV.Example\final_project_code\bin\x64\Debug\gesture_viewer.cs.exe
+C:\Emgu\emgucv-windows-universal-cuda 2.9.0.1922\Emgu.CV.Example\final_project_code\bin\x64\Debug\gesture_viewer.cs.pdb
+C:\Emgu\emgucv-windows-universal-cuda 2.9.0.1922\Emgu.CV.Example\final_project_code\bin\x64\Debug\Emgu.CV.dll
+C:\Emgu\emgucv-windows-universal-cuda 2.9.0.1922\Emgu.CV.Example\final_project_code\bin\x64\Debug\Emgu.CV.GPU.dll
+C:\Emgu\emgucv-windows-universal-cuda 2.9.0.1922\Emgu.CV.Example\final_project_code\bin\x64\Debug\Emgu.CV.UI.dll
+C:\Emgu\emgucv-windows-universal-cuda 2.9.0.1922\Emgu.CV.Example\final_project_code\bin\x64\Debug\Emgu.Util.dll
+C:\Emgu\emgucv-windows-universal-cuda 2.9.0.1922\Emgu.CV.Example\final_project_code\bin\x64\Debug\libpxcclr.dll
+C:\Emgu\emgucv-windows-universal-cuda 2.9.0.1922\Emgu.CV.Example\final_project_code\bin\x64\Debug\ZedGraph.dll
+C:\Emgu\emgucv-windows-universal-cuda 2.9.0.1922\Emgu.CV.Example\final_project_code\bin\x64\Debug\Emgu.CV.xml
+C:\Emgu\emgucv-windows-universal-cuda 2.9.0.1922\Emgu.CV.Example\final_project_code\bin\x64\Debug\Emgu.CV.GPU.xml
+C:\Emgu\emgucv-windows-universal-cuda 2.9.0.1922\Emgu.CV.Example\final_project_code\bin\x64\Debug\Emgu.CV.UI.xml
+C:\Emgu\emgucv-windows-universal-cuda 2.9.0.1922\Emgu.CV.Example\final_project_code\bin\x64\Debug\Emgu.Util.xml
+C:\Emgu\emgucv-windows-universal-cuda 2.9.0.1922\Emgu.CV.Example\final_project_code\obj\x64\Debug\gesture_viewer.cs_vs2010-12.csprojResolveAssemblyReference.cache
+C:\Emgu\emgucv-windows-universal-cuda 2.9.0.1922\Emgu.CV.Example\final_project_code\obj\x64\Debug\gesture_viewer.cs.MainForm.resources
+C:\Emgu\emgucv-windows-universal-cuda 2.9.0.1922\Emgu.CV.Example\final_project_code\obj\x64\Debug\gesture_viewer.cs.Properties.Resources.resources
+C:\Emgu\emgucv-windows-universal-cuda 2.9.0.1922\Emgu.CV.Example\final_project_code\obj\x64\Debug\gesture_viewer.cs_vs2010-12.csproj.GenerateResource.Cache
+C:\Program Files (x86)\Intel\PCSDK\framework\CSharp\final_project_code\obj\x64\Debug\gesture_viewer.cs.Projected.resources
+C:\Program Files (x86)\Intel\PCSDK\framework\CSharp\final_project_code\bin\x64\Debug\Pictures\both_info.png
+C:\Program Files (x86)\Intel\PCSDK\framework\CSharp\final_project_code\bin\x64\Debug\Pictures\none_info.png
+C:\Program Files (x86)\Intel\PCSDK\framework\CSharp\final_project_code\bin\x64\Debug\Pictures\orange_info.png
+C:\Program Files (x86)\Intel\PCSDK\framework\CSharp\final_project_code\bin\x64\Debug\libpxcclr.dll
+C:\Program Files (x86)\Intel\PCSDK\framework\CSharp\final_project_code\bin\x64\Debug\Pictures\lime_info.png
